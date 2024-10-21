@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1729512893 source:c:\users\sarah\desktop\uni\cuatri_4\estructura_datos_aplicadas\unidad 2\arreglos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
